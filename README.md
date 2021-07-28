@@ -1,6 +1,6 @@
 ## Marketeer Landing Page
 
-### This is a HTML & CSS based responsive landing page for fictional marketing company called Marketeer.
+### This is a HTML & CSS based responsive fullscreen landing page for fictional marketing company called Marketeer.
 
 #### Technologies
 * HTML5
