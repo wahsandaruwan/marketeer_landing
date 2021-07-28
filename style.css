@@ -104,7 +104,6 @@ li:not(:last-child):hover{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 100px;
     transition: all 0.3s ease-in;
 }
 
@@ -191,6 +190,7 @@ li:not(:last-child):hover{
 
     /* Footer */
     .ftr{
+        position: relative;
         flex-direction: column;
         text-align: center;
         padding: 40px;
